@@ -1,6 +1,7 @@
-A companion to  [What's Hiding in Data](https://hidingindata.wordpress.com/) with all the tl;dr details.
+Starting to move from [What's Hiding in Data](https://hidingindata.wordpress.com/) on WordPress 
+to over here, but it will take some time..
 
-And at the moment very much under construction and experimentation..
+The posts:
 
 <ul>
   {% for post in site.posts %}
@@ -9,3 +10,5 @@ And at the moment very much under construction and experimentation..
     </li>
   {% endfor %}
 </ul>
+
+The site is very much in its infancy and will be evolving over the days and weeks to come.

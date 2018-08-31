@@ -1,14 +1,20 @@
 ---
-title: Starting over here
+title: Moving over
 date: 2018-08-31 09:00:00 +0300
 ---
 
-# The first post
+# A start
 
-It appears that for publishing R and Pythion related documents
-should be far easier on GitHub than on Wordpress.
+It appears that publishing R and Pythion related documents
+should be far easier on GitHub than on WordPress.
 
-So I'm movin on.. Provided that the tests go right over
-here.
+The first attempt to generate GitHub / Jekyll compatible markup
+file from R-Studio was not yet successfull.
 
-Let's see...
+But I trust I will get it done. 
+Only have to add some blood and sweat.
+A few curses and magic spells.
+
+But it will work out.
+
+So I'm moving over here.
