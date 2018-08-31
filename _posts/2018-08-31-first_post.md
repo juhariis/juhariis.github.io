@@ -1,5 +1,6 @@
 ---
 title: Starting over here
+date: 2018-08-31 09:00:00 +0300
 ---
 
 # The first post
