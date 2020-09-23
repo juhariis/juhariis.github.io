@@ -5,7 +5,7 @@ in R and Python - and whatever that brings up.
 
 The WordPress site 
 [What's hiding in data](https://hidingindata.wordpress.com/)
-won't get any updates anymorfe and migt eventually be transferred
+won't get any updates anymore and migt eventually be transferred
 over here.
 
 Posts so far
