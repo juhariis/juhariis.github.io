@@ -18,6 +18,6 @@ Posts so far
   {% endfor %}
 </ul>
 
-But mainly experimenting with Jekyll and GitHub.
+* * *
 
-
+[About]({% link about.md %})
