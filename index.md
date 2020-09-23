@@ -1,10 +1,14 @@
-# Hiding in data
+Just another site with some random and infrequently published 
+blog entries.
+Mostly related to data science and programming 
+in R and Python - and whatever that brings up.
 
-Experimenting with moving 
+The WordPress site 
 [What's hiding in data](https://hidingindata.wordpress.com/)
-and stuff from Wordpress over here.
+won't get any updates anymorfe and migt eventually be transferred
+over here.
 
-And possibly starting to blog
+Posts so far
 
 <ul>
   {% for post in site.posts %}
