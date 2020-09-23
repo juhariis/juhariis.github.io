@@ -1,3 +1,9 @@
-# Experimenting with Jekyl
+# Hiding in data
 
-but having some issues...
+Experimenting with moving 
+[What's hiding in data](https://hidingindata.wordpress.com/)
+and stuff from Wordpress over here.
+
+But mainly experimenting with Jekyll and GitHub.
+
+
