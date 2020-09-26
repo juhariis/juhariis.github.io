@@ -1,5 +1,5 @@
 Just another site with some random and infrequently published 
-blog entries.
+sentries.
 Mostly related to data science and programming 
 in R and Python - and whatever that brings up.
 
